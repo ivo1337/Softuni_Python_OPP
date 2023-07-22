@@ -4,10 +4,12 @@ class MovieWorld:
         self.customers = []
         self.dvds = []
 
-    def dvd_capacity(self):
+    @staticmethod
+    def dvd_capacity():
         return 15
 
-    def customer_capacity(self):
+    @staticmethod
+    def customer_capacity():
         return 10
 
     def add_customer(self, customer):
