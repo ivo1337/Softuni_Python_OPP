@@ -3,7 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/02_classes_and_objects_exercises/library/project" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/10_unit_testing_exercise/02. Vehicle_Skeleton/vehicle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_unit_testing_exercise/03. Hero_Skeleton/hero" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
